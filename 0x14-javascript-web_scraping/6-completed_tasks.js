@@ -6,7 +6,7 @@ request.get(apiUrl, (error, response, body) => {
   if (error) {
     console.log(error);
   } else {
-    const tasks = keda.parse(body);
+    const tasks = JSON.parse(body);
     for (let i = 0; i < tasks.length; i++) {
       const key = tasks[i].userId;
       if (tasks[i].completed) {
