@@ -79,7 +79,7 @@ git clone https://github.com/Esteban1891/[Github project directory]
 
 
 
-## Author 
+## Authors :black_nib:
 ## ## :enter_belu: 
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
