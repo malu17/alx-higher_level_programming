@@ -3,4 +3,3 @@ $(document).ready(function getCharacter () {
     $('#character').text(data.name);
   });
 });
-0
