@@ -87,7 +87,7 @@ git clone https://github.com/Esteban1891/[Github project directory]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JulianR_30.svg?style=social&label=Follow)](https://twitter.com/eliasfiseha1)
 
 
-2022
+april 2022
 ## :mega: Acknowledgments
 
 * alx School (providing guidance)
