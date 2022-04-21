@@ -3,4 +3,3 @@ $(document).ready(function updateHeader () {
     $('HEADER').text('New Header!!!');
   });
 });
-0

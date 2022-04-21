@@ -4,4 +4,3 @@ $(document).ready(function addLi () {
     $('UL.my_list').append(add);
   });
 });
-0
