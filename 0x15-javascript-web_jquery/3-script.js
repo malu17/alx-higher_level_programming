@@ -3,3 +3,4 @@ $(document).ready(function setClass () {
     $('HEADER').attr('class', 'red');
   });
 });
+0
