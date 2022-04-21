@@ -15,4 +15,3 @@ function translate () {
     $('DIV#hello').html(data.hello);
   });
 }
-0
