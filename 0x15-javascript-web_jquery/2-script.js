@@ -3,4 +3,3 @@ $(document).ready(function textColor () {
     $('HEADER').css({ color: '#FF0000' });
   });
 });
-0
