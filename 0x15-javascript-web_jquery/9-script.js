@@ -1,7 +1,6 @@
-const $ = window.$;
-const url = "https://fourtonfish.com/hellosalut/?lang=fr";
-
-$.get(url, function(body) {
-  let hello = body["hello"];
-  $("#hello").html(hello);
+$(document).ready(function sayHello () {
+  $.get('https://fourtonfish.com/hellosalut/?lang=fr', (data) => {
+    const hello = data.hello;
+    $('DIV#hello').text(hello);
+  });
 });

@@ -1,3 +1,3 @@
-const $ = window.$;
-let header = $('header');
-header.css({ color: '#FF0000' });
+$(document).ready(function colorHeader () {
+  $('HEADER').css({ color: '#FF0000' });
+});

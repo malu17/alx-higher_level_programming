@@ -1,4 +1,5 @@
-const $ = window.$;
-$('#red_header').click(function () {
-  $('header').css({ color: '#FF0000' });
+$(document).ready(function textColor () {
+  $('DIV#red_header').click(function changeColor () {
+    $('HEADER').css({ color: '#FF0000' });
+  });
 });
