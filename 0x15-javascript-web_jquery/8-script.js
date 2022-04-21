@@ -9,4 +9,3 @@ $(document).ready(function updateAll () {
     }
   });
 });
-7
