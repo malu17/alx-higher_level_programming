@@ -4,3 +4,4 @@ $(document).ready(function sayHello () {
     $('DIV#hello').text(hello);
   });
 });
+0
